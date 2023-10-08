@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jared Taylor Ottley
-- 👀 I’m interested in: Materials science, machine learning, materials informatics
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in: Theoretical Chemistry, Materials Science, and Computational Approaches in these fields
+- 🌱 I’m currently learning C
 - 📫 How to reach me: taylor@ottleys.net
 
 <!---
